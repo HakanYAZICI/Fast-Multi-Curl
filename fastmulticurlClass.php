@@ -1,6 +1,7 @@
+<?php
 class fastmulticurl {
 
-<?
+
 
 //curl yapılacak url adreslerini array olarak fonksiyona aktarmalısın.
 
