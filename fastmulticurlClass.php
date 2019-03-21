@@ -1,4 +1,4 @@
-class uyeler {
+class fastmulticurl {
 
 <?
 
